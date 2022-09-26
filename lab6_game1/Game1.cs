@@ -125,7 +125,7 @@ namespace lab6_game1
            
 
             
-            // TODO: Add your update logic here
+            // tehe
 
             base.Update(gameTime);
         }
