@@ -31,7 +31,7 @@ namespace lab6_game1
 
         Random r = new Random();
 
-
+        //55
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
